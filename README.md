@@ -23,6 +23,11 @@ Checks for invalid template formats in multiword expressions.
 
 ---
 
+## ✅ Requirements
+- Python 3.7+
+
+---
+
 ## 🚀 Usage
 Each script is run from the command line. Examples below:
 
