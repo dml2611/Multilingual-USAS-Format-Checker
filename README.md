@@ -27,7 +27,7 @@ Checks for invalid template formats in multiword expressions.
 Each script is run from the command line. Examples below:
 
 ```bash
-cd path/to/this/repo
+cd path/to/usas-lexicon-format-checker
 
 # Check for correct column count
 python check_column_count.py path/to/singlelexicon.txt 3
