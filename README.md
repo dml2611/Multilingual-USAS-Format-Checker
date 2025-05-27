@@ -4,7 +4,7 @@ This repository provides command-line tools for validating and analyzing the for
 
 ---
 
-## 📁 Tools
+## 🧰 Tools
 
 #### 1. `check_column_count.py`
 Checks whether each line in a lexicon file contains the expected number of tab-separated columns.
@@ -28,7 +28,7 @@ Checks for invalid template formats in multiword expressions.
 
 ---
 
-## 🚀 Usage
+## 📌 Usage
 Each script is run from the command line. Examples below:
 
 ```bash
