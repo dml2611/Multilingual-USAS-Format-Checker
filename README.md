@@ -1,4 +1,4 @@
-# USAS Lexicon Format Checker - English
+# 🎯 USAS Lexicon Format Checker - English
 
 This repository provides command-line tools for validating and analyzing the format of English USAS lexicons, including both single-word entries and multi-word expressions (MWEs).
 
@@ -6,19 +6,19 @@ This repository provides command-line tools for validating and analyzing the for
 
 ## 📁 Tools
 
-### 1. `check_column_count.py`
+#### 1. `check_column_count.py`
 Checks whether each line in a lexicon file contains the expected number of tab-separated columns.
 
-### 2. `check_duplicates.py`
+#### 2. `check_duplicates.py`
 Identifies duplicate entries in a lexicon file. Supports both single-word and MWE lexicons.
 
-### 3. `check_mwe_pos_tags.py`
+#### 3. `check_mwe_pos_tags.py`
 Extracts all unique POS tags from the MWE lexicon. Optionally allows POS tag mapping using a provided JSON file.
 
-### 4. `check_usas_tags.py`
+#### 4. `check_usas_tags.py`
 Validates the USAS tags in both single-word and MWE lexicons against a known tag list.
 
-### 5. `check_mwe_template_format.py`
+#### 5. `check_mwe_template_format.py`
 Checks for invalid template formats in multiword expressions.
 
 ---
